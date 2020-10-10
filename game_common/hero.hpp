@@ -1,0 +1,4 @@
+enum GAME_HERO
+{
+	GAME_HERO_NO_HERO=0
+};
